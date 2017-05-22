@@ -1,0 +1,26 @@
+/* taustakuvat ja logot on omaa tuotantoa */
+body {
+
+    
+    background-image: url("../img/tausta_qr.png"); 
+    background-position: 100%, 100%;
+    background-attachment: scroll;
+    
+}
+
+#sisalto {
+    
+    background-color: #a9a9a9;
+    border-radius: 3em;
+    box-shadow: 11px 10px 4px 0px rgba(0,0,0,0.75);
+    
+}
+
+#historia {
+    
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 18px;
+    color: white;
+    
+}
