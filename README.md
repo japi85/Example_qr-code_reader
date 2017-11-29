@@ -1,4 +1,4 @@
 # special-octo-bassoon
+Qr Code Reader app
 
-
-Android mobile app QR-codereader made with Angularjs 1
+Android mobile app made with Angularjs 1 + ionic + cordova
